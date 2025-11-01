@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/animal-explorer/static/css/main.88310e7c.css",
-    "main.js": "/animal-explorer/static/js/main.bfe6c74f.js",
+    "main.css": "/animal-explorer/static/css/main.596fb83e.css",
+    "main.js": "/animal-explorer/static/js/main.d7c93688.js",
     "static/js/453.7baf8d39.chunk.js": "/animal-explorer/static/js/453.7baf8d39.chunk.js",
     "index.html": "/animal-explorer/index.html",
-    "main.88310e7c.css.map": "/animal-explorer/static/css/main.88310e7c.css.map",
-    "main.bfe6c74f.js.map": "/animal-explorer/static/js/main.bfe6c74f.js.map",
+    "main.596fb83e.css.map": "/animal-explorer/static/css/main.596fb83e.css.map",
+    "main.d7c93688.js.map": "/animal-explorer/static/js/main.d7c93688.js.map",
     "453.7baf8d39.chunk.js.map": "/animal-explorer/static/js/453.7baf8d39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88310e7c.css",
-    "static/js/main.bfe6c74f.js"
+    "static/css/main.596fb83e.css",
+    "static/js/main.d7c93688.js"
   ]
 }
