@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://https://methmethi40-ux.github.io/animal-explorer//sitemap.xml
