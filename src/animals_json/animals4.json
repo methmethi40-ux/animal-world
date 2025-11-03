@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 151,
+    "name": "African Elephant 151",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 152,
+    "name": "Lion 152",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 153,
+    "name": "African Elephant 153",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 154,
+    "name": "Lion 154",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 155,
+    "name": "African Elephant 155",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 156,
+    "name": "Lion 156",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 157,
+    "name": "African Elephant 157",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 158,
+    "name": "Lion 158",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 159,
+    "name": "African Elephant 159",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 160,
+    "name": "Lion 160",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 161,
+    "name": "African Elephant 161",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 162,
+    "name": "Lion 162",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 163,
+    "name": "African Elephant 163",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 164,
+    "name": "Lion 164",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 165,
+    "name": "African Elephant 165",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 166,
+    "name": "Lion 166",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 167,
+    "name": "African Elephant 167",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 168,
+    "name": "Lion 168",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 169,
+    "name": "African Elephant 169",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 170,
+    "name": "Lion 170",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 171,
+    "name": "African Elephant 171",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 172,
+    "name": "Lion 172",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 173,
+    "name": "African Elephant 173",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 174,
+    "name": "Lion 174",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 175,
+    "name": "African Elephant 175",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 176,
+    "name": "Lion 176",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 177,
+    "name": "African Elephant 177",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 178,
+    "name": "Lion 178",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 179,
+    "name": "African Elephant 179",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 180,
+    "name": "Lion 180",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 181,
+    "name": "African Elephant 181",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 182,
+    "name": "Lion 182",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 183,
+    "name": "African Elephant 183",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 184,
+    "name": "Lion 184",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 185,
+    "name": "African Elephant 185",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 186,
+    "name": "Lion 186",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 187,
+    "name": "African Elephant 187",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 188,
+    "name": "Lion 188",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 189,
+    "name": "African Elephant 189",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 190,
+    "name": "Lion 190",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 191,
+    "name": "African Elephant 191",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 192,
+    "name": "Lion 192",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 193,
+    "name": "African Elephant 193",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 194,
+    "name": "Lion 194",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 195,
+    "name": "African Elephant 195",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 196,
+    "name": "Lion 196",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 197,
+    "name": "African Elephant 197",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 198,
+    "name": "Lion 198",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 199,
+    "name": "African Elephant 199",
+    "scientific": "Loxodonta africana",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Herbivore",
+    "habitat": "Grasslands and forests",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+    "video": "https://www.pexels.com/video/elephants-are-walking-854132/",
+    "sound": "https://freesound.org/people/qubodup/sounds/182456/",
+    "description": "The African elephant is the largest land mammal, known for its intelligence and strong social bonds.",
+    "funFacts": [
+      "Elephants can recognize themselves in a mirror.",
+      "They communicate using infrasound.",
+      "They can live up to 70 years."
+    ],
+    "status": "Vulnerable"
+  },
+  {
+    "id": 200,
+    "name": "Lion 200",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "habitat": "Grasslands and savannah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "video": "https://www.pexels.com/video/a-lion-walking-854135/",
+    "sound": "https://freesound.org/people/InspectorJ/sounds/403009/",
+    "description": "Lions are social big cats living in prides, often called the 'king of the jungle'.",
+    "funFacts": [
+      "Male lions have a mane to protect their neck.",
+      "They can roar up to 8 km away.",
+      "Lions sleep up to 20 hours per day."
+    ],
+    "status": "Vulnerable"
+  }
+]

@@ -1,0 +1,82 @@
+.filters-container {
+  padding: 20px 30px;
+  background: rgba(0, 119, 182, 0.05);
+  border-radius: 16px;
+  margin: 20px auto;
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+.filter-section {
+  width: 100%;
+  text-align: center;
+}
+
+.filter-section h3,
+.filter-section h4 {
+  margin: 5px 0;
+  color: #023047;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.filter-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.filter-tabs button {
+  padding: 8px 16px;
+  border-radius: 12px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+/* 10 colors for tabs */
+.filter-tabs button:nth-child(1) { background-color: #FF6B6B; }
+.filter-tabs button:nth-child(2) { background-color: #FFD93D; }
+.filter-tabs button:nth-child(3) { background-color: #6BCB77; }
+.filter-tabs button:nth-child(4) { background-color: #4D96FF; }
+.filter-tabs button:nth-child(5) { background-color: #843B62; }
+.filter-tabs button:nth-child(6) { background-color: #FF6EC7; }
+.filter-tabs button:nth-child(7) { background-color: #FF914D; }
+.filter-tabs button:nth-child(8) { background-color: #00B4D8; }
+.filter-tabs button:nth-child(9) { background-color: #6A0572; }
+.filter-tabs button:nth-child(10){ background-color: #38B000; }
+
+.filter-tabs button:hover {
+  transform: scale(1.05);
+  opacity: 0.85;
+}
+
+.filter-tabs button.active {
+  border: 2px solid #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.1);
+}
+
+/* Subtabs styling */
+.filter-subtabs {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-subtabs h4 {
+  margin-bottom: 8px;
+  color: #0077b6;
+}
+
+.filter-subtabs .filter-tabs {
+  gap: 10px;
+}

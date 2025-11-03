@@ -1,0 +1,3 @@
+.diet-tabs { display:flex; gap:10px; margin-bottom:18px; }
+.diet-tab { padding:8px 14px; border-radius:999px; border:none; background:#f8f9fa; cursor:pointer; font-weight:700; }
+.diet-tab.active { background:linear-gradient(90deg,#ffd7a7,#ff8fa3); transform:translateY(-3px); }
