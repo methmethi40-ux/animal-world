@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lion",
+    "scientific": "Panthera leo",
+    "region": "Africa",
+    "diet": "Carnivore",
+    "backbone": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"
+  },
+  {
+    "name": "Elephant",
+    "scientific": "Loxodonta africana",
+    "region": "Africa",
+    "diet": "Herbivore",
+    "backbone": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+  },
+  {
+    "name": "Blue Whale",
+    "scientific": "Balaenoptera musculus",
+    "region": "Oceans",
+    "diet": "Carnivore",
+    "backbone": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bluewhale.jpg"
+  }
+]

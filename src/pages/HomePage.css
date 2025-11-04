@@ -1,0 +1,13 @@
+.homepage h1 {
+  color: #333;
+}
+.animal-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+select {
+  margin-bottom: 20px;
+  padding: 5px;
+}
