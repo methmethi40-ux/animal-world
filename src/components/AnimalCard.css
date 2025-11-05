@@ -1,4 +1,5 @@
 .animal-card {
+<<<<<<< HEAD
   width: 200px;
   background: white;
   border-radius: 10px;
@@ -11,4 +12,54 @@
   height: 150px;
   border-radius: 8px;
   object-fit: cover;
+=======
+  border-radius: 12px;
+  padding: 10px;
+  margin: 5px;
+  color: #fff;
+  cursor: pointer;
+  transition: transform 0.3s, filter 0.5s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  backdrop-filter: blur(2px);
+}
+
+.animal-card:hover {
+  transform: scale(1.05);
+  filter: brightness(1.2);
+}
+
+.animal-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 2px solid rgba(255,255,255,0.5);
+}
+
+.placeholder {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+}
+
+.animal-info h3 {
+  margin: 5px 0;
+}
+
+.scientific {
+  font-style: italic;
+  font-size: 0.9em;
+  opacity: 0.8;
+>>>>>>> c2a226bf24d2685796d29d935940a6aa565000b4
 }

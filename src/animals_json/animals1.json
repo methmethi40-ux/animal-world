@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "scientific": "Panthera leo",
+    "type": "Mammal",
+    "region": "Africa",
+    "subregion": "Savannah",
+    "diet": "Carnivore",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+    "description": "The lion is a species in the family Felidae.",
+    "funFacts": ["Lions are social animals.", "They live in prides."],
+    "status": "Vulnerable"
+  }
+]
